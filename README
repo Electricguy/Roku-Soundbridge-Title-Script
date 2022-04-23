@@ -1,0 +1,2 @@
+This bash script picks the currently playing track title out of Roku Soundbridge internet radio receivers every 15 seconds. 
+The output is displayed as raw text withough any of the surrounding HTML tags and other garbage.
